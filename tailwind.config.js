@@ -40,10 +40,10 @@ module.exports = {
 
       backgroundImage: {
         "navbar-gr":  "linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0.33%, rgba(0, 0, 0, 0.599049) 99.79%)",
-        "burger": 'url("../images/burger.svg")',
-        "burger-x": 'url("../images/x.svg")',
-        "body-bg":'url("../images/body-bg-pink.svg"), url("../images/body-bg-pink.svg")',
-        "article-bg":'url("../images/article-bg.svg"), url("../images/article-bg.svg")',
+        "burger": 'url("./images/burger.svg")',
+        "burger-x": 'url("./images/x.svg")',
+        "body-bg":'url("./images/body-bg-pink.svg"), url("./images/body-bg-pink.svg")',
+        "article-bg":'url("./images/article-bg.svg"), url("./images/article-bg.svg")',
       },
 
       boxShadow: {

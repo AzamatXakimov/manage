@@ -888,7 +888,7 @@ video {
 }
 
 .bg-body-bg{
-  background-image: url("../images/body-bg-pink.svg"), url("../images/body-bg-pink.svg");
+  background-image: url("./images/body-bg-pink.svg"), url("./images/body-bg-pink.svg");
 }
 
 .bg-navbar-gr{
@@ -896,11 +896,11 @@ video {
 }
 
 .bg-burger{
-  background-image: url("../images/burger.svg");
+  background-image: url("./images/burger.svg");
 }
 
 .bg-article-bg{
-  background-image: url("../images/article-bg.svg"), url("../images/article-bg.svg");
+  background-image: url("./images/article-bg.svg"), url("./images/article-bg.svg");
 }
 
 .bg-mbodybg{
